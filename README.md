@@ -29,8 +29,13 @@ The project led to a significant reduction in data processing time by 60%, provi
 Technologies Used:
 
 Data Profiling and Analysis: Python 
+
 Data Cleaning and Staging: Talend, Alteryx 
+
 ETL Development: Talend 
+
 Dimensional Modeling: E/R Studio 
+
 Data Visualization: Tableau, Power BI 
+
 Data Verification: SQL Database Views
