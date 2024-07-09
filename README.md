@@ -26,7 +26,8 @@ Verified the accuracy of the portrayed data with SQL database views to ensure re
 Results
 The project led to a significant reduction in data processing time by 60%, providing timely insights into accident contributors. The developed dashboards facilitated easy interpretation of complex data, aiding city officials in making informed decisions to improve urban safety.
 
-Technologies Used 
+Technologies Used:
+
 Data Profiling and Analysis: Python 
 Data Cleaning and Staging: Talend, Alteryx 
 ETL Development: Talend 
